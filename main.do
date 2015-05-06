@@ -6,9 +6,9 @@
 *****Note 3: Those interested in using information on the state must apply for access to the restricted NLSY and merge this variable into the dataset
 *****Note 4: Without the state variable, the results will not match the published results
 
-global prog = "insert appropriate directory here"
-global data = "insert appropriate directory here"
-global out = "insert appropriate directory here"
+global prog = "/Users/ElliottIsaac/Documents/Work/Research/Summer Paper - Taxes and Marriage/Data/Dahl and Lochner's Data and Code"
+global data = "/Users/ElliottIsaac/Documents/Work/Research/Summer Paper - Taxes and Marriage/Data/Dahl and Lochner's Data and Code"
+global out = "/Users/ElliottIsaac/Documents/Work/Research/Summer Paper - Taxes and Marriage/Data/Dahl and Lochner's Data and Code"
 
 *Setup
 set more off
